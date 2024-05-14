@@ -5,3 +5,18 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![GitHub Icon](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```Javascript
+var myVar = "Hello, world!";
+```
+
+
+
